@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ghostybits/starting-react/issues"
   },
-  "homepage": "https://github.com/ghostybits/starting-react#readme"
+  "homepage": "https://github.com/ghostybits/starting-react#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
