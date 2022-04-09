@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Home from './components/Home';
 
-const root = ReactDOM.createRoot(
-    document.getElementById('root')
+ReactDOM.render(
+    <Home />,
+    document.getElementById('root'),
 );
